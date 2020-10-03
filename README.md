@@ -22,5 +22,6 @@ You can find me on [![LinkedIn][1.2]][1].
 <!--
 **mfakca/mfakca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
