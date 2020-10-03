@@ -2,7 +2,7 @@
 ## I'm Mehmet Fatih AKCA. I am studying Management Information Systems at Sakarya University. I am working on Data Science, Machine Learning and Data Visualization.
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mfakca&show_icons=true&theme=gradient)
+
 
 
 🔭 ı'm currently student
@@ -12,6 +12,8 @@
 📝 I regularly write articles on https://medium.com/@mfakca
 
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mfakca&show_icons=true&theme=gradient)
 <!-- Actual text -->
 
 You can find me on [![LinkedIn][1.2]][1].
