@@ -7,7 +7,7 @@
 
 <!-- Actual text -->
 
-Beni [![LinkedIn][1.2]][1], veya [![Medium][4.2]][4]'dan takip edebilirsiniz.
+You can find me on [![LinkedIn][1.1]][1].
 
 <!-- Icons -->
 
