@@ -3,7 +3,14 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mfakca&show_icons=true&theme=gradient)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfakca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+🔭 ı'm currently student
+
+🌱 I’m currently learning Deep Learning, Reinforcement Learning
+
+📝 I regularly write articles on https://medium.com/@mfakca
+
 
 <!-- Actual text -->
 
@@ -22,7 +29,6 @@ You can find me on [![LinkedIn][1.2]][1].
 <!--
 **mfakca/mfakca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 
 
