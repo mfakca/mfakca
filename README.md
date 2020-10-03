@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 ## I'm Mehmet Fatih AKCA. I am studying Management Information Systems at Sakarya University. I am working on Data Science, Machine Learning and Data Visualization.
 
 
