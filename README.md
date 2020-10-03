@@ -3,7 +3,7 @@
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=mfakca)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfakca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Actual text -->
 
