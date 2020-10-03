@@ -5,7 +5,7 @@
 
 
 
-🔭 ı'm currently student
+🔭 I'm currently student
 
 🌱 I’m currently learning Deep Learning, Reinforcement Learning
 
