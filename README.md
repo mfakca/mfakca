@@ -7,7 +7,7 @@
 
 <!-- Actual text -->
 
-Beni [![LinkedIn][1.2]][1], veya [![Medium][3.2]][3]'dan takip edebilirsiniz.
+Beni [![LinkedIn][1.2]][1], veya [![Medium][4.2]][4]'dan takip edebilirsiniz.
 
 <!-- Icons -->
 
