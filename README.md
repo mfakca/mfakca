@@ -12,7 +12,7 @@ Beni [![LinkedIn][1.2]][1], veya [![Medium][3.2]][3]'dan takip edebilirsiniz.
 <!-- Icons -->
 
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[2.2]: https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png (Medium icon without padding)
+[3.2]: https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png (Medium icon without padding)
 
 <!-- Links to your social media accounts -->
 
